@@ -1,5 +1,5 @@
 # 🔤 Project Title: 
-**Predicting Credit Card Default Risk Using Client Profile and Repayment Patterns**
+## **Predicting Credit Card Default Risk Using Client Profile and Repayment Patterns**
 
 
 ## 📚 Table of Contents
